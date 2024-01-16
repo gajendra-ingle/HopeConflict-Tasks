@@ -5,6 +5,7 @@ Welcome to the Hopeconflict-Tasks repository! This is the place to find and subm
 ## Tasks
 
 ### Task 1: Blog Site using HTML
+### Task 2:
 
 <hr>
 Happy coding! 👨‍💻

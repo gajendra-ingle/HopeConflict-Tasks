@@ -6,8 +6,8 @@ Welcome to the Hopeconflict-Tasks repository! This is the place to find and subm
 
 ### Task 1: Blog Site using HTML
 ### Task 2: College Web Page
-### Task 3:
-### Task 4:
+### Task 3: Registration Form
+### Task 4: 
 
 <hr>
 Happy coding! 👨‍💻

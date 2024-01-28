@@ -1,11 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Table</title>
+    <style>
+        table {
+            border: 5px solid black;
+        }
+
+        table tr, th, td {
+            border: 2px solid black;
+            height: 50px;
+            width: 100px;
+        }
+    </style>
 </head>
+
 <body>
-    
+    <table>
+        <!-- Table head -->
+        <thead>
+            <tr>
+                <th colspan="6"></th>
+            </tr>
+        </thead>
+
+        <!-- Table body -->
+        <tbody>
+            <tr>
+                <td rowspan="4"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="3"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="3"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+
+        </tbody>
+        <!-- Table footer -->
+        <tfoot>
+            <tr>
+                <td colspan="6"></td>
+            </tr>
+        </tfoot>
+
+    </table>
+
 </body>
 </html>

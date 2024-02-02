@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Layout</title>
+
+    <style>
+        table tr,
+        th,
+        td {
+            border: 1px solid black;
+            width: 100vw;
+            
+        }
+
+        #head,
+        #foot {
+            height: 50px;
+            background-color: gray;
+            text-align: center;
+        }
+
+        #aside {
+            height: 80vh;
+            width: 20vw;
+            background-color: green;
+            text-align: center;
+        }
+        #main{
+            text-align: center;
+            background-color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="6" id="head">Header</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td rowspan="4" id="aside">Aside</td>
+                <td colspan="5" id="main">Main</td>
+            </tr>
+
+        <tfoot>
+            <tr>
+                <td colspan="6" id="foot">Footer</td>
+            </tr>
+        </tfoot>
+
+        </tbody>
+
+    </table>
+</body>
+
+</html>

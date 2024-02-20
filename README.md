@@ -10,7 +10,7 @@ Welcome to the Hopeconflict-Tasks repository! This is the place to find and subm
 ### Task 4: List
 ### Task 5: HTML Layout
 ### Task 6: Nav Bar
-
+### Task 7:
 
 <hr>
 Happy coding! 👨‍💻

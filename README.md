@@ -9,7 +9,8 @@ Welcome to the Hopeconflict-Tasks repository! This is the place to find and subm
 ### Task 3: Registration Form
 ### Task 4: List
 ### Task 5: HTML Layout
-### Task 6:
+### Task 6: Nav Bar
+
 
 <hr>
 Happy coding! 👨‍💻
